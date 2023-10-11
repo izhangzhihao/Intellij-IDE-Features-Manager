@@ -9,4 +9,8 @@ This is your IDE Features Manager. You can manage hidden IDE features just in on
 
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "IDE Features Manager"</kbd> >
   <kbd>Install</kbd>
-
+ 
+ OR: 
+ 
+  Download the [latest release](https://github.com/izhangzhihao/Intellij-IDE-Features-Manager/releases/latest) and install it manually using
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
